@@ -73,5 +73,21 @@ footer, .card-footer{
 
 }
 
+.card{
+  margin:20px;
+}
 
+.card-title{
+  display: block;
+  color: #ffffff;
+  padding: 10px;
+  margin-bottom: 0%;
+  width: 100%;
+  background-color: #4aaaa5;
+}
+
+.card-body{
+  padding: 0%;
+  height: 100%;
+}
 
